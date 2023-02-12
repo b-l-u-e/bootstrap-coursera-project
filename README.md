@@ -7,3 +7,4 @@ At the end of the course I learnt the following
 2: Use of Html to create a simple web page
 3: Use of css to control the appearance of webpage
 4: Application of Bootstrap css framework
+Checkout completed project: https://b-l-u-e.github.io/bootstrap-coursera-project/
